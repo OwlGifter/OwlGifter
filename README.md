@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello Welcome To My Profile! 😄
+
+## About Me:
+I am currently a computer science undergraduate, i have a focus on **software engineering**
+in my github you will find different projects i have worked on as well as projects i am currently working on.
+Most of the projects found in my github will most likely be from 
 
 <!--
 **OwlGifter/OwlGifter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
