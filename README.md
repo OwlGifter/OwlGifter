@@ -3,15 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owlgifter&label=Profile%20views&color=0e75b6&style=flat" alt="owlgifter" /> </p>
 
+- 📘 My current repositories are based more on **school work and side projects!**
+
+- 🥇 My focus on learning out of class is **Web Development**
+
 - 🔭 I’m currently working on [MyMovieTickets](https://github.com/iacedoagui/MyMovieTickets)
 
-- 🌱 I’m currently learning **Software Construction**
+- 🌱 I’m currently learning **Software Construction** in school.
 
-- 📫 How to reach me **zabdielhernandez21@gmail.com**
+- 📫 How to reach me: **zabdielhernandez21@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1_Wiy5s7Q2gOPk4kUXw0nlpIKBSeATwsb/edit?usp=sharing&ouid=109613039641442649382&rtpof=true&sd=true](https://docs.google.com/document/d/1_Wiy5s7Q2gOPk4kUXw0nlpIKBSeATwsb/edit?usp=sharing&ouid=109613039641442649382&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I love learning everything computer related**
+- ⚡ Fun fact I love **learning anything computer science related** as well as **computer games** related 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
