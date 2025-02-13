@@ -7,9 +7,9 @@
 
 - 🥇 My focus on learning out of class is **Web Development**
 
-- 🔭 I’m currently working on [MyMovieTickets](https://github.com/iacedoagui/MyMovieTickets)
+- 🔭 I’m currently working on [Computer Vision](https://github.com/OwlGifter/Computer-Vision)
 
-- 🌱 I’m currently learning **Software Construction** in school.
+- 🌱 I’m currently learning **Machine Learning**, **Computer Vision**, and **Parallel Computing** in school.
 
 - 📫 How to reach me: **zabdielhernandez21@gmail.com**
 
