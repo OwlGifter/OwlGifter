@@ -1,7 +1,8 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Zabdiel Hernandez</h1>
 <h3 align="center">A passionate Software Engineer developer from El Paso</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=owlgifter&label=Profile%20views&color=0e75b6&style=flat" alt="owlgifter" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=owlgifter&label=Profile%20views&color=0e75b6&style=flat" alt="owlgifter" /> </p>
 
 # 💫 About Me:
 📘 My current repositories are based more on school work and side projects!<br>🥇 My focus on learning out of class is Web Development<br>🔭 I’m currently working on Computer Vision<br>🌱 I’m currently learning Machine Learning, Computer Vision, and Parallel Computing in school.<br>📫 How to reach me: zabdielhernandez21@gmail.com<br>📄 Know about my experiences https://docs.google.com/document/d/1_Wiy5s7Q2gOPk4kUXw0nlpIKBSeATwsb/edit?usp=sharing&ouid=109613039641442649382&rtpof=true&sd=true<br>⚡ Fun fact I love learning anything computer science related as well as computer games related 😄
@@ -25,7 +26,10 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=OwlGifter&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=OwlGifter&icon=10&color=13)](https://visitcount.itsvg.in)
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  
+  ![snake gif](https://github.com/OwlGifter/OwlGifter/blob/output/github-snake-dark.svg)
+  
+</div>
