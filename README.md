@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Zabdiel Hernandez</h1>
+<h1 align="center">Hi 👋, I am Zabdiel Hernandez</h1>
 <h3 align="center">A passionate Software Engineer developer from El Paso</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=owlgifter&label=Profile%20views&color=0e75b6&style=flat" alt="owlgifter" /> </p>
