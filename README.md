@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=owlgifter&label=Profile%20views&color=0e75b6&style=flat" alt="owlgifter" /> </p>
 
 # 💫 About Me:
-📘 My current repositories are based more on school work and side projects!<br>🥇 My focus on learning out of class is Web Development<br>🔭 I’m currently working on Computer Vision<br>🌱 I’m currently learning Machine Learning, Computer Vision, and Parallel Computing in school.<br>📫 How to reach me: zabdielhernandez21@gmail.com<br>📄 Know about my experiences https://docs.google.com/document/d/1_Wiy5s7Q2gOPk4kUXw0nlpIKBSeATwsb/edit?usp=sharing&ouid=109613039641442649382&rtpof=true&sd=true<br>⚡ Fun fact I love learning anything computer science related as well as computer games related😄.<br>
+📘 My current repositories are based more on school work and side projects!<br>🥇 My focus on learning out of class is Web Development<br>🔭 I’m currently working on Computer Vision<br>🌱 I’m currently learning Machine Learning, Computer Vision, and Parallel Computing in school.<br>📫 How to reach me: zabdielhernandez202@gmail.com<br>📄 Know about my experiences https://docs.google.com/document/d/1_Wiy5s7Q2gOPk4kUXw0nlpIKBSeATwsb/edit?usp=sharing&ouid=109613039641442649382&rtpof=true&sd=true<br>⚡ Fun fact I love learning anything computer science related as well as computer games related😄.<br>
 
 # 📓 CS Classes I Have Taken:
 🖳Intro to Computer Science. 🧮Discrete Structures I & II. 🗃️Data Structures. 🧰Data Algorithms. ⌨️Digital Systems Design I.<br>
