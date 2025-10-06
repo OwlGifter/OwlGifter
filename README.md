@@ -5,13 +5,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=owlgifter&label=Profile%20views&color=0e75b6&style=flat" alt="owlgifter" /> </p>
 
 # 💫 About Me:
-📘 My current repositories are based more on school work and side projects!<br>🥇 My focus on learning out of class is Web Development<br>🔭 I’m currently working on Computer Vision<br>🌱 I’m currently learning Machine Learning, Computer Vision, and Parallel Computing in school.<br>📫 How to reach me: zabdielhernandez202@gmail.com<br>📄 Know about my experiences https://docs.google.com/document/d/1_Wiy5s7Q2gOPk4kUXw0nlpIKBSeATwsb/edit?usp=sharing&ouid=109613039641442649382&rtpof=true&sd=true<br>⚡ Fun fact I love learning anything computer science related as well as computer games related😄.<br>
+🥇 My current learning focus is Computer Architecture and Design!<br>🔭 I’m currently working on Computer Software Implementation<br>🌱 I’m currently learning Computer Networking, and Computer Software Implementation<br>📫 How to reach me: zabdielhernandez202@gmail.com<br>📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1np9lWQkYE-f57so0yEYWsCbm49ZBn7Mm/view?usp=sharing)<br>⚡ Fun fact I love learning anything computer science, and love to improve my programming skills and software creation😄.<br>
 
 # 📓 CS Classes I Have Taken:
 🖳Intro to Computer Science. 🧮Discrete Structures I & II. 🗃️Data Structures. 🧰Data Algorithms. ⌨️Digital Systems Design I.<br>
 ⚙️Advanced Object Oriented Programming. 📋Automata. ☕Programming Language Concepts. 📁Computer Organization(Low Level).<br>
 🗄️Database Systems. 📋Software Engineering: Design & Implementation. 📖Machine Learning. 👁️Computer Vision.<br>
-🛠️Software Construction. 🔧Software Reverse Engineering.
+🛠️Software Construction. 🔧Software Reverse Engineering. 🌐Computer Networking.
 
 
 ## 🌐 Socials:
