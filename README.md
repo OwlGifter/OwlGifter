@@ -7,7 +7,7 @@
 # 💫 About Me:
 🥇 My current learning focus is Computer Architecture and Design!<br>🔭 I’m currently working on Computer Software Implementation<br>🌱 I’m currently learning Computer Networking, and Computer Software Implementation<br>📫 How to reach me: zabdielhernandez202@gmail.com<br>📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1np9lWQkYE-f57so0yEYWsCbm49ZBn7Mm/view?usp=sharing)<br>⚡ Fun fact I love learning anything computer science, and love to improve my programming skills and software creation😄.<br>
 
-# 📓 CS Classes I Have Taken:
+# 📓 CS Classes Taken:
 🖳Intro to Computer Science. 🧮Discrete Structures I & II. 🗃️Data Structures. 🧰Data Algorithms. ⌨️Digital Systems Design I.<br>
 ⚙️Advanced Object Oriented Programming. 📋Automata. ☕Programming Language Concepts. 📁Computer Organization(Low Level).<br>
 🗄️Database Systems. 📋Software Engineering: Design & Implementation. 📖Machine Learning. 👁️Computer Vision.<br>
